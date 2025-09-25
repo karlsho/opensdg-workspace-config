@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "created": "2025-09-25T09:51:43Z",
+  "roles": [
+    {
+      "id": "admin",
+      "name": "Administrator"
+    },
+    {
+      "id": "editor",
+      "name": "Editor"
+    }
+  ],
+  "users": [
+    {
+      "github": "karlsho",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    }
+  ],
+  "signature": "dj5yv0eqKXbEpQu8cyVjq7Mc6Fx\u002B5cUfNCpw/a12A1uNBD/moSNgVuOb1hDMWJ4vmL2w4hXqXpVpS5PuAM7eusMqNKKaxAuRXGmcDFg\u002BWMOBFM\u002B5yUi9CSw5BSJk5vY4UKECYnIys/Nm4VxA3MwmsRzG8fBC9HnK1tkW4C1LBoCKVREceRJaHGHfdnJLdAs8MJ30SRnpLnitn08l3Qm/O\u002BJ/v1Yu54RbXR7s1RbTssLlI0InQM1sKeyx8xOayBmh5rsx2WBp1JDsYog4Nb4A6AosqZTsMoHiGFPB9idpiL8dv7JfIXf2o/W0esrbr6y7pV0xbY8\u002BRuRb2K5sP1LrAw=="
+}
